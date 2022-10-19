@@ -7,6 +7,8 @@ In this project, I will work on the following three datasets.
 
 - Enhanced Twitter Archive :
 The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything. One column the archive does contain though: each tweet's text, which I used to extract rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo) to make this Twitter archive "enhanced." Of the 5000+ tweets, I have filtered for tweets with ratings only (there are 2356).
+![Screenshot 2022-10-19 at 12 51 53](https://user-images.githubusercontent.com/74813723/196672158-f423d358-cb25-44a3-994a-b5b0792cbce9.png)
+
 ## Project Steps Overview
 Your tasks in this project are as follows:
 
