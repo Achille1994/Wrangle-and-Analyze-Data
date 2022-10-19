@@ -38,4 +38,19 @@ Step 5: Analyzing, and visualizing data
 
 Step 6: Reporting
 
+# commentaires
 
+wrangle_act.ipynb: code for gathering, assessing, cleaning, analyzing, and visualizing data
+wrangle_report.pdf or wrangle_report.html: documentation for data wrangling steps: gather, assess, and clean
+act_report.pdf or act_report.html: documentation of analysis and insights into final data
+twitter_archive_enhanced.csv: file as given
+image_predictions.tsv: file downloaded programmatically
+tweet_json.txt: file constructed via API
+twitter_archive_master.csv: combined and cleaned data
+
+
+## Results
+Pease see my notebook for all analyse (wrangle_act.ipynb)
+
+## Conclusions
+Even a dog breed is very popular for the most tweeters don’t mean is the most favorited or retweeted by other users. The selection of a preferable dog breed is up to others criteria, which need a depth analysis with more variables. In other side, the increase of tweets number do not mean the increase of the visitors reaction for the tweeted dog breed. It can be explained by confusion of visitors for choosing the preferable dog breed when the number of tweets increase or the rate of dog breed tweets increasing is greater than the rate of favorite and retweet average increasing. Finally, the originality of humorist rating is what almost visitors prefer for rating the dogs, which mean is the asset of this twitter account.
