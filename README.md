@@ -9,7 +9,8 @@ Enhanced Twitter Archive :
 - The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything. One column the archive does contain though: each tweet's text, which I used to extract rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo) to make this Twitter archive "enhanced." Of the 5000+ tweets, I have filtered for tweets with ratings only (there are 2356).
 ![Screenshot 2022-10-19 at 12 58 13](https://user-images.githubusercontent.com/74813723/196673122-797ba39a-9813-4499-b446-f24939810f38.png)
 
-I extracted this data programmatically, but I didn't do a very good job. The ratings probably aren't all correct. Same goes for the dog names and probably dog stages (see below for more information on these) too. You'll need to assess and clean these columns if you want to use them for analysis and visualization.
+I extracted this data programmatically, but I didn't do a very good job. The ratings probably aren't all correct. Same goes for the dog names and probably dog stages (see below for more information on these) too. You'll need to assess and clean these columns if you want to use them for analysis and visualization. ![Screenshot 2022-10-19 at 12 57 23](https://user-images.githubusercontent.com/74813723/196674100-023b1b6d-3484-42fd-8818-b70c81941ca2.png)
+
 
 ## Additional Data via the Twitter API
 
